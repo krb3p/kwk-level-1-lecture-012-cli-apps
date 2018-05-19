@@ -126,3 +126,8 @@ loop do
 
 end
 ```
+
+#### CFU 
+* Students have a math worksheet that they need to build a computer program to solve simple problems (level differentiation problems) - student can choose their comfort level. 
+* Possibly gain points from this CFU - treats/prizes. 
+* 15-30 minute time alottment. 
